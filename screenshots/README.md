@@ -31,6 +31,11 @@ kubectl get pods
 ```bash
 kubectl describe services
 ```
+![Kubernetes services](./images/servicediscribe.PNG)
+
+* To verify that Kubernetes services shows a reverse proxy
+```bash
+```
 ![Kubernetes services](./images/service.PNG)
 
 * To verify that you have horizontal scaling set against CPU usage
@@ -43,5 +48,8 @@ kubectl describe hpa
 ```bash
 kubectl logs {pod_name}
 ```
-![Kubernetes logs](./images/backendlog.PNG)
+![backend logs](./images/backendlog.PNG)
 
+*[![Final running frontend image](http://a5923ec814af14e0c9a8a4be37c204f6-1142240796.us-east-1.elb.amazonaws.com/)
+
+![Running project](./images/runingproject.PNG)
