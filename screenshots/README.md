@@ -8,7 +8,10 @@ To help review your infrastructure, please include the following screenshots in 
 
 * GitHub repository’s settings showing your Travis webhook (can be found in Settings - Webhook)
 
-![pushed containers](./images/travis2.PNG)
+![pushed containers](./images/webhook.PNG)
+
+![pushed containers](./images/travis.PNG)
+
 
 * Travis CI showing a successful build and deploy job
 
