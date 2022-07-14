@@ -50,6 +50,6 @@ kubectl logs {pod_name}
 ```
 ![backend logs](./images/backendlog.PNG)
 
-*[![Final running frontend image](http://a5923ec814af14e0c9a8a4be37c204f6-1142240796.us-east-1.elb.amazonaws.com/)
+*[Final running frontend image](http://a5923ec814af14e0c9a8a4be37c204f6-1142240796.us-east-1.elb.amazonaws.com/)
 
 ![Running project](./images/runingproject.PNG)
